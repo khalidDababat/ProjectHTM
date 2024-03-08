@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+<html lang ="eg">
 <head>
+<meta charset ='utf-8'>
 <title>Hello World!</title>
 <link rel="stylesheet" href="bluestyle.css">
 </head>
